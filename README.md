@@ -64,6 +64,6 @@ Simply open index.html in your preferred browser or use the Live Server extensio
 👤 Author
 Kanuri Ganesh
 
-MSc AI Student
+MSc AI with advanced practices Student
 
 Full-Stack Developer 
